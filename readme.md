@@ -1,4 +1,4 @@
-# 📍 Τουριστικός Οδηγός Πόλης - Android App
+# 🧭 Τουριστικός Οδηγός Πόλης - Android App
 
 Μια Android εφαρμογή τουριστικού οδηγού που παρέχει πληροφορίες για τα αξιοθέατα μιας πόλης, με δυνατότητα offline λειτουργίας και προβολή σε χάρτη.
 
@@ -32,16 +32,16 @@
 ## 📸 Preview
 
 <p align="center">
-  <img src="https://github.com/haris2718/KastoriaCityGuideNew/blob/main/assets/first_page_com.example.kastoria_guide.jpg" width="25%" style="margin-right: 20px;border: 1px solid #ddd; border-radius: 6px;" />
-  <img src="https://github.com/haris2718/KastoriaCityGuideNew/blob/main/assets/second_page_com.example.kastoria_guide.jpg" width="25%" style="margin-right: 20px;border: 1px solid #ddd; border-radius: 6px;" />
-  <img src="https://github.com/haris2718/KastoriaCityGuideNew/blob/main/assets/third_com.example.kastoria_guide.jpg" width="25%" style="margin-right: 20px;border: 1px solid #ddd; border-radius: 6px;" />
+  <img src="https://github.com/haris2718/KastoriaCityGuideNew/blob/main/assets/first_page_com.example.kastoria_guide.jpg" width="25%" hspace="10" />
+  <img src="https://github.com/haris2718/KastoriaCityGuideNew/blob/main/assets/second_page_com.example.kastoria_guide.jpg" width="25%" hspace="10" />
+  <img src="https://github.com/haris2718/KastoriaCityGuideNew/blob/main/assets/third_com.example.kastoria_guide.jpg" width="25%" hspace="10" />
 </p>
-
 <p align="center">
-  <img src="https://github.com/haris2718/KastoriaCityGuideNew/blob/main/assets/rating_com.example.kastoria_guide.jpg" width="25%" style="margin-right: 20px;border: 1px solid #ddd; border-radius: 6px;" />
-  <img src="https://github.com/haris2718/KastoriaCityGuideNew/blob/main/assets/map_com.google.android.apps.maps.jpg" width="25%" style="margin-right: 20px;border: 1px solid #ddd; border-radius: 6px;" />
+  <img src="https://github.com/haris2718/KastoriaCityGuideNew/blob/main/assets/rating_com.example.kastoria_guide.jpg" width="25%" hspace="10"/>
+  <img src="https://github.com/haris2718/KastoriaCityGuideNew/blob/main/assets/map_com.google.android.apps.maps.jpg" width="25%" hspace="10"/>
 </p>
-
+<br><br>
+<br><br>
 ---
 
 
