@@ -22,9 +22,9 @@
   
 ## Preview
 
-![image](https://github.com/haris2718/KastoriaCityGuideNew/)
-![image](https://github.com/haris2718/KastoriaCityGuideNew/)
-![image](https://github.com/haris2718/KastoriaCityGuideNew/)
-![image](https://github.com/haris2718/KastoriaCityGuideNew/)
-![image](https://github.com/haris2718/KastoriaCityGuideNew/)
+![image](https://github.com/haris2718/KastoriaCityGuideNew/assets/first_page_com.example.kastoria_guide.jpg)
+![image](https://github.com/haris2718/KastoriaCityGuideNew/assets/second_page_com.example.kastoria_guide.jpg)
+![image](https://github.com/haris2718/KastoriaCityGuideNew/assets/third_com.example.kastoria_guide.jpg)
+![image](https://github.com/haris2718/KastoriaCityGuideNew/assets/rating_com.example.kastoria_guide.jpg)
+![image](https://github.com/haris2718/KastoriaCityGuideNew/assets/map_com.example.kastoria_guide.jpg)
 
