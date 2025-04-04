@@ -32,14 +32,14 @@
 ## 📸 Preview
 
 <p align="center">
-  <img src="https://github.com/haris2718/KastoriaCityGuideNew/blob/main/assets/first_page_com.example.kastoria_guide.jpg" width="25%" style="margin: 10px;" />
-  <img src="https://github.com/haris2718/KastoriaCityGuideNew/blob/main/assets/second_page_com.example.kastoria_guide.jpg" width="25%" style="margin: 10px;" />
-  <img src="https://github.com/haris2718/KastoriaCityGuideNew/blob/main/assets/third_com.example.kastoria_guide.jpg" width="25%" style="margin: 10px;" />
+  <img src="https://github.com/haris2718/KastoriaCityGuideNew/blob/main/assets/first_page_com.example.kastoria_guide.jpg" width="25%" style="margin-right: 20px;border: 1px solid #ddd; border-radius: 6px;" />
+  <img src="https://github.com/haris2718/KastoriaCityGuideNew/blob/main/assets/second_page_com.example.kastoria_guide.jpg" width="25%" style="margin-right: 20px;border: 1px solid #ddd; border-radius: 6px;" />
+  <img src="https://github.com/haris2718/KastoriaCityGuideNew/blob/main/assets/third_com.example.kastoria_guide.jpg" width="25%" style="margin-right: 20px;border: 1px solid #ddd; border-radius: 6px;" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/haris2718/KastoriaCityGuideNew/blob/main/assets/rating_com.example.kastoria_guide.jpg" width="25%" style="margin: 10px;" />
-  <img src="https://github.com/haris2718/KastoriaCityGuideNew/blob/main/assets/map_com.google.android.apps.maps.jpg" width="25%" style="margin: 10px;" />
+  <img src="https://github.com/haris2718/KastoriaCityGuideNew/blob/main/assets/rating_com.example.kastoria_guide.jpg" width="25%" style="margin-right: 20px;border: 1px solid #ddd; border-radius: 6px;" />
+  <img src="https://github.com/haris2718/KastoriaCityGuideNew/blob/main/assets/map_com.google.android.apps.maps.jpg" width="25%" style="margin-right: 20px;border: 1px solid #ddd; border-radius: 6px;" />
 </p>
 
 ---
