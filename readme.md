@@ -41,7 +41,7 @@
   <img src="https://github.com/haris2718/KastoriaCityGuideNew/blob/main/assets/map_com.google.android.apps.maps.jpg" width="25%" hspace="10"/>
 </p>
 <br><br>
-<br><br>
+
 ---
 
 
