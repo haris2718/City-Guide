@@ -1,35 +1,36 @@
-# 🧭 Τουριστικός Οδηγός Πόλης - Android App
 
-Μια Android εφαρμογή τουριστικού οδηγού που παρέχει πληροφορίες για τα αξιοθέατα μιας πόλης, με δυνατότητα offline λειτουργίας και προβολή σε χάρτη.
+#  **City Tourist Guide - Android App**
 
----
-
-## ✨ Λειτουργίες
-
-✅ Πληροφορίες Αξιοθέατων  
-- Εμφάνιση λεπτομερειών (περιγραφή, φωτογραφίες, τοποθεσία)  
-- Προβολή αξιοθέατων σε χάρτη
-
-🔄 Σύνδεση με Διακομιστή  
-- Ανάκτηση δεδομένων μέσω RESTful API  
-- Αυτόματη ανανέωση πληροφοριών όταν υπάρχει σύνδεση
-
-📴 Offline Λειτουργία  
-- Τοπική αποθήκευση με SQLite (Room)  
-- Πρόσβαση στα δεδομένα χωρίς internet  
-- Αυτόματη ενημέρωση όταν το δίκτυο επανέλθει
+An Android tourist guide application that provides information about the attractions of a city, with offline functionality and map view.
 
 ---
 
-## 🛠️ Τεχνολογίες
+##  **Features**
 
-- 📱 Android SDK (Java)
-- 🌐 RESTful API για δεδομένα
-- 🗃 Room Database (SQLite) για local αποθήκευση
+ **Attraction Information**  
+- Display detailed information (description, photos, location)  
+- View attractions on the map
+
+ **Server Connection**  
+- Fetch data via RESTful API  
+- Automatic refresh of information when connected to the internet
+
+ **Offline Mode**  
+- Local storage with SQLite (Room)  
+- Access data without internet  
+- Automatic update when network connection is restored
 
 ---
 
-## 📸 Preview
+##  **Technologies**
+
+-  Android SDK (Java)
+-  RESTful API for data retrieval
+-  Room Database (SQLite) for local storage
+
+---
+
+##  **Preview**
 
 <p align="center">
   <img src="https://github.com/haris2718/KastoriaCityGuideNew/blob/main/assets/first_page_com.example.kastoria_guide.jpg" width="25%" hspace="10" />
@@ -43,7 +44,6 @@
 <br><br>
 
 ---
-
 
 
 
